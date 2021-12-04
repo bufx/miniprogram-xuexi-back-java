@@ -1,0 +1,9 @@
+server:
+  port: 8081
+  servlet:
+    context-path: /
+spring:
+  application:
+    name: miniprogram-xuexi-back-java
+
+user-container-json-path: ${jsonPath:/Users/bufanxiang/myDoc/tools/IDEA/bufx/github/miniprogram-xuexi-back-java/src/main/resources/}
